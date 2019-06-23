@@ -15,5 +15,5 @@ Training a classifier involves these steps:
 All these steps have been well described in the IPython Notebook.
 In case of issue in viewing the notebook, please click on the link below:
 <br/>
-[PyTorch Tutorial.ipynb](https://nbviewer.jupyter.org/github/PyExtreme/Lighting-The-PyTorch/blob/master/PyTorch%20Tutorial.ipynb)
+[PyTorch Tutorial.ipynb](https://nbviewer.jupyter.org/github/PyExtreme/Lighting-The-PyTorch/blob/master/main.ipynb)
 
